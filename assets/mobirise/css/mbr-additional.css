@@ -582,6 +582,9 @@ a:hover {
   color: #ffffff;
 }
 /* Scroll to top button*/
+.scrollToTop_wraper {
+  display: none;
+}
 .form-control {
   font-family: 'Jost', sans-serif;
   font-size: 1.1rem;
@@ -2437,11 +2440,6 @@ a {
   padding-bottom: 5rem;
   background-color: #ffffff;
 }
-.cid-t1SqZaG51l {
-  padding-top: 4rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
 .cid-t22vzO6R19 {
   padding-top: 0rem;
   padding-bottom: 0rem;
@@ -2698,11 +2696,6 @@ a {
 .cid-t22vzO6R19 H6 {
   text-align: center;
 }
-.cid-t1Sr8ALzpr {
-  padding-top: 4rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
 .cid-t22wnnlo3p {
   padding-top: 0rem;
   padding-bottom: 0rem;
@@ -2958,11 +2951,6 @@ a {
 }
 .cid-t22wnnlo3p H6 {
   text-align: center;
-}
-.cid-t1Sr8XbZwb {
-  padding-top: 4rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
 }
 .cid-t22wodLKxX {
   padding-top: 0rem;
